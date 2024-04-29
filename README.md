@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Bram! 👋
+
+I'm currenty a Laravel developer at [DutchCodingCompany_](https://dutchcodingcompany.com/).
+
+### 📫 How to reach me:
+- [Twitter/X](https://twitter.com/b14s_)
 
 <!--
 **bramr94/bramr94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
