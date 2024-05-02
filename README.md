@@ -4,6 +4,7 @@ I'm currenty a Laravel developer at [DutchCodingCompany_](https://dutchcodingcom
 
 ### 📫 How to reach me:
 - [Twitter/X](https://twitter.com/b14s_)
+- [Email](mailto:b.raaijmakers@protonmail.com)
 
 <!--
 **bramr94/bramr94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
