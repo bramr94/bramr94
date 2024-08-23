@@ -1,6 +1,4 @@
-### Hi there, I'm Bram! 👋
-
-I'm currenty a Laravel developer at [DutchCodingCompany_](https://dutchcodingcompany.com/).
+## Hi there, I'm Bram! 👋
 
 ### 📫 How to reach me:
 - [Twitter/X](https://twitter.com/b14s_)
