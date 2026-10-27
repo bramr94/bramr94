@@ -1,10 +1,7 @@
 ## Hi there, I'm Bram! 👋
 
 ### 📫 How to reach me:
-- [Twitter/X](https://twitter.com/b14s_)
-- [Bluesky](https://bsky.app/profile/b14s.bsky.social)
 - [Email](mailto:b.raaijmakers@protonmail.com)
-- <a rel="me" href="https://phpc.social/@bram">Mastodon</a>
 
 <!--
 **bramr94/bramr94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
